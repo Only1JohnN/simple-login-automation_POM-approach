@@ -41,7 +41,7 @@ This project follows the **Page Object Model (POM)** design pattern, which helps
 ## Folder Structure
 
 ```
-selenium_pytest_project/
+simple-login-automation_POM-approach/
 │
 ├── pages/                  # Page Object Model classes
 │   ├── base_page.py        # BasePage class with common web element interactions
